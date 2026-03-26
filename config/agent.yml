@@ -1,0 +1,6 @@
+external_data_path: data/external/records.csv
+
+# 高德地图 API 配置
+amap_weather_url: https://restapi.amap.com/v3/weather/weatherInfo
+amap_geo_url: https://restapi.amap.com/v3/geocode/geo
+
